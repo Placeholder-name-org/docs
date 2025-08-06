@@ -149,7 +149,7 @@ refactor: adjusts related to core structures of the project
 
 ## Support This Project
 
-This project is developed and maintained by students working on their final course project. If you find this documentation useful and would like to support our research efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
+This project is developed and maintained by students working on their final paper. If you find this documentation useful and would like to support our research efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
 
 You can support us through:
 - [GitHub Sponsors](https://github.com/sponsors/Placeholder-name-org)
