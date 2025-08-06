@@ -112,19 +112,6 @@ SILVA, João. **Agile Methodologies in Software Development**. São Paulo: Tech 
 SANTOS, Maria; OLIVEIRA, Pedro. Comparative analysis of frameworks. **Technology Journal**, v. 15, n. 3, p. 123-145, 2023.
 ```
 
-## Document Checklist
-
-Before submitting any document, verify:
-
-- [ ] ABNT structure respected
-- [ ] Citations formatted correctly
-- [ ] Complete and standardized references
-- [ ] Spelling and grammar review
-- [ ] Consistent section numbering
-- [ ] Figures and tables captioned
-- [ ] Updated summary (if applicable)
-- [ ] Document metadata filled
-
 ## Commit Guidelines
 
 When contributing to this repository, follow these commit standards:
