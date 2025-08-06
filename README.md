@@ -1,19 +1,39 @@
-# Documentation Repository
+# docs
 
-This repository contains all documentation and research related to the project following norms like ABNT and using the Scientific Method
+This repository serves as the central documentation hub for our Final Course Project focusing on AI-powered fintech solutions. All research, reports, methodology, and academic documentation following ABNT standards are maintained here using Markdown format for version control and collaborative editing.
 
-## Document Checklist
 
-Before submitting any document, verify:to our Project. The goal is to centralize all academic production following scientific standards and ABNT norms, using Markdown as the primary format.
+### Documentation Contents
+
+This repository organizes all academic materials related to our TCC research project:
+
+**Research Documentation**
+- Literature review and theoretical foundation
+- Economic analysis and market studies
+- AI/ML model research and validation
+- User behavior and market analysis studies
+
+**Technical Documentation** 
+- System architecture and design specifications
+- Implementation methodology and procedures
+- Testing protocols and validation methods
+- Performance analysis and results
+
+**Academic Reports**
+- Monthly progress reports following ABNT standards
+- Interim research findings and analysis
+- Final project documentation and conclusions
+- Peer review materials and feedback
 
 ## Repository Structure
 
 ```
-docs/
+docs
 ├── README.md                # This file
 ├── research/                # Research related to the project
-├── reports/                 # Partial and final reports
-└── methodology/             # Methodological documentation
+├── reports/                 # Academic reports and deliverables
+├── methodology/             # Methodological documentation
+└── templates/               # ABNT templates in Markdown
 ```
 
 ## Standards and Norms
@@ -127,10 +147,19 @@ refactor: adjusts related to core structures of the project
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
+## Support This Project
+
+This project is developed and maintained by students working on their final course project. If you find this documentation useful and would like to support our research efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
+
+You can support us through:
+- [GitHub Sponsors](https://github.com/sponsors/Placeholder-name-org)
 
 ## Contact
+
 For questions or suggestions about the documentation, contact us through repository issues or through the email placeholder@gmail.com.
 
 ---
-**License**
-This project is under the our [custom license](https://github.com/Placeholder-name-org/docs/blob/main/LICENSE) - see the LICENSE file for details.
+
+## License
+
+This project is under our [custom license](https://github.com/Placeholder-name-org/docs?tab=License-1-ov-file) - see the LICENSE file for details.
