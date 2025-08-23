@@ -1,11 +1,11 @@
 # docs
 
-This repository serves as the central documentation hub for our Final Course Project focusing on AI-powered fintech solutions. All research, reports, methodology, and academic documentation following ABNT standards are maintained here using Markdown format for version control and collaborative editing.
+This repository serves as the central documentation hub for our Final Paper project focusing on AI-powered fintech solutions. All research, reports, methodology, and academic documentation following ABNT standards are maintained here using Markdown format for version control and collaborative editing.
 
 
 ### Documentation Contents
 
-This repository organizes all academic materials related to our TCC research project:
+This repository organizes all academic materials related to our Final Paper research project:
 
 **Research Documentation**
 - Literature review and theoretical foundation
@@ -20,7 +20,7 @@ This repository organizes all academic materials related to our TCC research pro
 - Performance analysis and results
 
 **Academic Reports**
-- Monthly progress reports following ABNT standards
+- Progress reports following ABNT standards
 - Interim research findings and analysis
 - Final project documentation and conclusions
 - Peer review materials and feedback
@@ -139,7 +139,7 @@ refactor: adjusts related to core structures of the project
 This project is developed and maintained by students working on their final paper. If you find this documentation useful and would like to support our research efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
 
 You can support us through:
-- [GitHub Sponsors](https://github.com/sponsors/Placeholder-name-org)
+- [GitHub Sponsors](https://github.com/sponsors/mansa-team)
 
 ## Contact
 
@@ -149,4 +149,4 @@ For questions or suggestions about the documentation, contact us through reposit
 
 ## License
 
-This project is under our [custom license](https://github.com/Placeholder-name-org/docs?tab=License-1-ov-file) - see the LICENSE file for details.
+This project is under our [custom license](https://github.com/mansa-team/docs?tab=License-1-ov-file) - see the LICENSE file for details.
