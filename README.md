@@ -143,7 +143,7 @@ You can support us through:
 
 ## Contact
 
-For questions or suggestions about the documentation, contact us through repository issues or through the email placeholder@gmail.com.
+For questions or suggestions about the documentation, contact us through repository issues or through the email mansafin.team@gmail.com.
 
 ---
 
